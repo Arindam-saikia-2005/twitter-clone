@@ -7,7 +7,6 @@ const userRouter = require("./routes/authRoute.js")
 const router = require("./routes/userRoute.js")
 const postRouter = require("./routes/postRoute.js")
 const notificationRouter = require("./routes/notificationRoute.js")
-const mongoose  = require("mongoose")
 
 dotenv.config()
 
